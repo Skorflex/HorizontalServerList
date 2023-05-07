@@ -1,0 +1,18 @@
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 54,57,63;
+    --transparencyalpha: 0.1;
+    --messagetransparency: 0.3;
+    --guildchanneltransparency: 0.3;
+    --memberlistransparency: 0.3;
+    --accentcolor: 66,70,77;
+    --background: url("https://vsthemes.org/uploads/posts/2022-11/1668604321_logotip-sportivnoj-firmy-ptichka.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
